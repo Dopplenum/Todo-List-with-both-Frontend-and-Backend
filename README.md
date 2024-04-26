@@ -1,2 +1,2 @@
 # Todo-List-with-both-Frontend-and-Backend
-This is a todo with authentication
+This is a todo with authentication and full frontend and backend
